@@ -1,5 +1,5 @@
 {
-	"name" : "Inchoo/HelloWorld",
+	"name" : "inchoo/helloWorld",
 	"description" : "A Magento 2 module that creates a new page",
 	"type" : "magento2-module",
 	"version" : "1.0.0",
